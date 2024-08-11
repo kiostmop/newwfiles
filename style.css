@@ -1,0 +1,330 @@
+body {
+    background-color: bisque;
+    font-family: Arial, sans-serif;
+    
+}
+.cal {
+    display: block;
+    background: orange;
+    font-family: CPMonoRus;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    border: 2px black solid;
+    border-radius: 10px;
+    font-weight: 300;
+    position: absolute;
+    left: 200px;
+    text-align: center;
+    padding: 15px 30px;
+    cursor: grab;
+    box-shadow: 0 4px 6px black;
+}
+.cal1 {
+    display: block;
+    background: orange;
+    font-family: CPMonoRus;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    border: 2px black solid;
+    border-radius: 10px;
+    font-weight: 300;
+    position: absolute;
+    left: 410px;
+    text-align: center;
+    padding: 15px 30px;
+    cursor: grab;
+    box-shadow: 0 4px 6px black;
+}
+.cal2 {
+    display: block;
+    background: orange;
+    font-family: CPMonoRus;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    border: 2px black solid;
+    border-radius: 10px;
+    font-weight: 300;
+    position: absolute;
+    left: 550px;
+    text-align: center;
+    padding: 15px 30px;
+    cursor: grab;
+    box-shadow: 0 4px 6px black;
+}
+.cal3 {
+    display: block;
+    background: orange;
+    font-family: CPMonoRus;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    border: 2px black solid;
+    border-radius: 10px;
+    font-weight: 300;
+    position: absolute;
+    left: 715px;
+    text-align: center;
+    padding: 15px 30px;
+    cursor: grab;
+    box-shadow: 0 4px 6px black;
+}
+.cal4 {
+    display: block;
+    background: orange;
+    font-family:CPMonoRus;
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    border: 2px black solid;
+    border-radius: 10px;
+    font-weight: 300;
+    position: absolute;
+    left: 1525px;
+    text-align: center;
+    padding: 15px 30px;
+    cursor: grab;
+    box-shadow: 0 4px 6px black;
+}
+.photo2 {
+    position: absolute;
+    top: 83px;
+    left: 650px;
+    border: 10px orange outset;
+    border-radius: 10px;
+    line-height: 0;
+    box-shadow: 0 4px 6px black;
+}
+.photo3 {
+    position: absolute;
+    top: 83px;
+    left: 1250px;
+    border: 10px yellow outset;
+    border-radius: 10px;
+    line-height: 0;
+    box-shadow: 0 4px 6px black;
+}
+.photo1 {
+    position: absolute;
+    border: 10px yellow outset;
+    border-radius: 10px;
+    top: 83px;
+    line-height: 0;
+    box-shadow: 0 4px 6px black;
+}
+.profile {
+    position:absolute;
+    top:10px;
+    left: 1025px;
+}
+#vashprofile {
+    position:absolute;
+    color:dimgray;
+    top:14px;
+    left: 1055px;
+}
+#balance {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:absolute;
+    top:14px;
+    left:925px;
+}
+.icone {
+    position:absolute;
+    top:0.1px;
+}
+#zagolovok {
+    color:grey;
+    position:absolute;
+    top: 400px;
+    left: 650px;
+    font-size:50px;
+    font-family:fantasy;
+}
+#text {
+    color: grey;
+    background-color:rgb(white);
+   position:absolute;
+   top:470px;
+   padding: 0px 450px;
+}
+.lemonade {
+    position:absolute;
+    top:600px;
+    font-size:200px;
+}
+#recept {
+    color:grey;
+    position:absolute;
+    top: 600px;
+    left: 120px;
+    font-family:'Segoe Script';
+}
+.lemonade1 {
+    position:absolute;
+    top: 150px;
+    left: 460px;
+}
+.lemonade2 {
+    position: absolute;
+    top: 150px;
+    left: 1080px;
+}
+#recept1 {
+    font-family:'Century Gothic';
+    font-size:13px;
+    position:absolute;
+    top: 650px;
+    left: 200px;
+    text-decoration:overline;
+}
+#recept2 {
+    font-family: 'Century Gothic';
+    font-size: 13px;
+    position: absolute;
+    top: 670px;
+    left: 200px;
+    text-decoration: overline;
+}
+#recept3 {
+    font-family: 'Century Gothic';
+    font-size: 13px;
+    position: absolute;
+    top: 690px;
+    left: 200px;
+    text-decoration: overline;
+}
+#recept4 {
+    font-family: 'Century Gothic';
+    font-size: 13px;
+    position: absolute;
+    top: 710px;
+    left: 200px;
+    text-decoration: overline;
+}
+#recept5 {
+    font-family: 'Century Gothic';
+    font-size: 13px;
+    position: absolute;
+    top: 730px;
+    left: 200px;
+    text-decoration: overline;
+}
+#recept6 {
+    font-family: 'Century Gothic';
+    font-size: 13px;
+    position: absolute;
+    top: 750px;
+    left: 200px;
+    text-decoration: overline;
+}
+#recept7 {
+    font-family: 'Century Gothic';
+    font-size: 13px;
+    position: absolute;
+    top: 770px;
+    left: 200px;
+    text-decoration: overline;
+}
+#info1 {
+    color: grey;
+    background-color: rgb(white);
+    font-family: 'Century Gothic';
+    position: absolute;
+    top: 970px;
+    padding: 0px 450px;
+    box-shadow: 0 4px 6px black;
+}
+#info2 {
+    color: grey;
+    background-color: rgb(white);
+    font-family: 'Century Gothic';
+    position: absolute;
+    top: 1070px;
+    padding: 0px 450px;
+    box-shadow: 0 4px 6px black;
+}
+.pena {
+    position:absolute;
+    top: 1030px;
+}
+.pena1 {
+    position:absolute;
+    top:1130px;
+    left:1530px;
+}
+#info3 {
+    color: grey;
+    background-color: rgb(white);
+    font-family: 'Century Gothic';
+    position: absolute;
+    top: 1170px;
+    padding: 0px 450px;
+    box-shadow: 0 4px 6px black;
+}
+#info4 {
+    color: grey;
+    background-color: rgb(white);
+    font-family: 'Century Gothic';
+    position: absolute;
+    top: 1270px;
+    padding: 0px 450px;
+    box-shadow: 0 4px 6px black;
+}
+#info5 {
+    color: grey;
+    background-color: rgb(white);
+    font-family: 'Century Gothic';
+    position: absolute;
+    top: 1370px;
+    padding: 0px 450px;
+    box-shadow: 0 4px 6px black;
+}
+#info6 {
+    color: grey;
+    background-color: rgb(white);
+    font-family: 'Century Gothic';
+    position: absolute;
+    top: 1470px;
+    padding: 0px 450px;
+    box-shadow: 0 4px 6px black;
+}
+#info7 {
+    color: orange;
+    font-weight: 900;
+    font-family: 'Century Gothic';
+    position: absolute;
+    top: 1570px;
+    padding: 0px 450px;
+    text-decoration:underline;
+}
+.pena2 {
+    position: absolute;
+    top: 1430px;
+    left: 100px;
+}
+.foot {
+    position:absolute;
+    top: 2200px;
+    background:none;
+}
+.videoinfo {
+    position:absolute;
+    top:1650px;
+    left:260px;
+    overflow:auto;
+    resize:both;
+}
+.smex {
+    position:absolute;
+    top:620px;
+    left:1080px;
+}
+#end {
+    top:2200px;
+    position:absolute;
+    color:red;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
